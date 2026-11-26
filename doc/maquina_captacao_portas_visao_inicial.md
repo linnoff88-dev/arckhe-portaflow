@@ -1,7 +1,7 @@
-# Máquina de Captação — visão inicial
+# Máquina de Captaçêo — visêo inicial
 
 ## Objetivo
-Criar um sistema previsível que encontre pessoas e empresas com intenção de comprar portas internas brancas e entregue ao sistema de vendas apenas oportunidades relevantes.
+Criar um sistema previsível que encontre pessoas e empresas com intençêo de comprar portas internas brancas e entregue ao sistema de vendas apenas oportunidades relevantes.
 
 ## Arquitetura
 
@@ -17,19 +17,19 @@ Google Search para buscas como:
 Destino:
 Google → página específica → WhatsApp / orçamento.
 
-### 2. Geração de demanda
+### 2. Geraçêo de demanda
 Meta / Instagram / Facebook com anúncios visuais:
 - antes e depois;
 - obra pronta;
-- comparação porta tradicional x kit completo;
+- comparaçêo porta tradicional x kit completo;
 - erros ao comprar portas;
-- demonstração de acabamento;
+- demonstraçêo de acabamento;
 - cases e depoimentos.
 
 Destino:
-Anúncio → WhatsApp → qualificação automática.
+Anúncio → WhatsApp → qualificaçêo automática.
 
-### 3. Captação B2B
+### 3. Captaçêo B2B
 Criar uma frente específica para:
 - arquitetos;
 - construtores;
@@ -48,23 +48,23 @@ Criar conteúdos orientados a buscas e dúvidas reais:
 - qual porta escolher;
 - medidas;
 - preço;
-- instalação;
+- instalaçêo;
 - tipos de acabamento;
 - kit porta pronta;
 - erros de obra.
 
 Conteúdo → Google/Instagram/YouTube → WhatsApp.
 
-### 5. Reativação
+### 5. Reativaçêo
 Usar a própria base:
 - antigos leads;
-- orçamentos não fechados;
+- orçamentos nêo fechados;
 - antigos clientes;
 - arquitetos;
 - construtores;
 - indicações.
 
-Campanhas automáticas de reativação e indicação.
+Campanhas automáticas de reativaçêo e indicaçêo.
 
 ## Hub central
 
@@ -74,9 +74,9 @@ TRÁFEGO
 ↓
 Landing page / WhatsApp
 ↓
-IA de qualificação
+IA de qualificaçêo
 ↓
-Pontuação do lead
+Pontuaçêo do lead
 ↓
 CRM
 ↓
@@ -96,7 +96,7 @@ Máquina de vendas
 
 ## Métrica principal
 
-Não otimizar apenas para CPL.
+Nêo otimizar apenas para CPL.
 
 Acompanhar:
 Investimento → Leads → Leads qualificados → Orçamentos → Vendas → Receita → Margem
@@ -115,9 +115,9 @@ Começar somente com:
 6. Rastreamento até a venda
 
 Depois:
-Meta Ads → remarketing → conteúdo → B2B → indicação.
+Meta Ads → remarketing → conteúdo → B2B → indicaçêo.
 
 ## Princípio
 
-A máquina de captação não deve procurar o maior número de leads.
+A máquina de captaçêo nêo deve procurar o maior número de leads.
 Ela deve procurar repetidamente o perfil de cliente que mais fecha e gera margem.
