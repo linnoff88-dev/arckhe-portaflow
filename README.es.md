@@ -6,7 +6,7 @@ Máquina de ventas B2B de puertas interiores blancas por WhatsApp: el lead llega
 
 ## 📖 Guía de uso
 
-Guía completa (landing + paso a paso): **https://inematds.github.io/portaflow/guia/es/**
+Guía completa (landing + paso a paso): **https://linnoff88-dev.github.io/arckhe-/guia/es/**
 
 ## Documentación
 

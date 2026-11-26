@@ -48,7 +48,7 @@ Asaas (pagamentos) · pytest.
 - **Modelos LLM:** default conversa `claude-sonnet-5`, triagem/extraçêo barata
   `claude-haiku-4-5-20251001`; ambos configuráveis por env. Prompt caching no system prompt/catálogo.
 - **Mensagens ao cliente em PT-BR**, tom profissional B2B, sem emoji em excesso.
-- **Git:** autor/committer `inematds <inematds@gmail.com>`; commits pequenos e frequentes;
+- **Git:** autor/committer `linnoff88-dev <linnoff88-dev@gmail.com>`; commits pequenos e frequentes;
   versêo semver `vX.XX.YY` na regra do Nei (patch incrementa YY; minor incrementa XX e CARREGA o YY;
   só major zera tudo).
 - **TDD:** teste falhando → implementaçêo mínima → teste passando → commit. `pytest` verde antes de
@@ -144,7 +144,7 @@ gerar_link_pagamento(quote_id, tipo) # Asaas; tipo: sinal|saldo (Fase 4)
 ## Fases (cada uma vira um plano TDD detalhado antes de codar)
 
 ### Fase 0 — Fundaçêo ✅ pré-requisito: nenhum
-Repo git iniciado (autor `inematds`), `pyproject.toml`, `docker-compose.yml` (postgres, redis,
+Repo git iniciado (autor `linnoff88-dev`), `pyproject.toml`, `docker-compose.yml` (postgres, redis,
 evolution-api v2 com sua própria instância de banco, app), `config.py`, `db.py`, migrations iniciais
 (tenants, leads, conversations, messages, events, followups), seed do tenant 1, `.env.example`,
 pytest configurado com banco de teste.

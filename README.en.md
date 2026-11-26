@@ -6,7 +6,7 @@ A B2B sales machine for white interior doors via WhatsApp: a lead comes in, AI q
 
 ## 📖 User Guide
 
-Complete guide (landing page + step-by-step instructions): **https://inematds.github.io/portaflow/guia/en/**
+Complete guide (landing page + step-by-step instructions): **https://linnoff88-dev.github.io/arckhe-/guia/en/**
 
 ## Documentation
 
